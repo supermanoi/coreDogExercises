@@ -1,0 +1,35 @@
+.roboDogs {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 1px solid black;
+  width: 70%;
+  margin: auto;
+  box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.5);
+  background-color: rgb(234, 246, 250);
+  padding: 3px;
+  font-size: 14px;
+}
+
+#warnings {
+  color: red;
+  font-weight: bold;
+}
+
+.CatsAndDogs {
+  font-family: "Times New Roman", Times, serif;
+  border: 1px solid black;
+  width: 60%;
+  margin: auto;
+  box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.5);
+  background-color: rgb(249, 252, 245);
+  padding: 1px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+#fight > h3 {
+  color: maroon;
+}
+
+#guide {
+  color: green;
+}
